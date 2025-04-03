@@ -5,9 +5,9 @@ matplotlib
 seaborn
 wordcloud
 scikit-learn
-opencv-python
 Pillow
 plotly
 nltk
-opencv-contrib-python
+opencv-python==4.6.0.66
+opencv-contrib-python==4.6.0.66
 
